@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<plugin>
+    <class>org.jivesoftware.openfire.plugin.GetPasswordPlugin</class>
+    <name>GetPassword</name>
+    <description>get user password</description>
+    <author>Derek zhang</author>
+    <version>1.0.0</version>
+    <date>11/26/2011</date>
+    <minServerVersion>3.7.0</minServerVersion>
+    
+    <licenseType>gpl</licenseType>    
+    <adminconsole>    
+    </adminconsole> 
+</plugin>
